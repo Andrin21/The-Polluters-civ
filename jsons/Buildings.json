@@ -2,12 +2,12 @@
 	{
 		"name": "Deathwatcher",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "The ",
+		"uniqueTo": "The Polluters ",
 		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"happiness": -200,
+		"culture": 20,
+		"science": 500,
+		"maintenance": -10,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
 		"requiredTech": "Horseback Riding"
@@ -15,11 +15,11 @@
 	{
 		"name": "Breeders",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "The Polluters",
 		"cost": 80,
 		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"happiness": -50,
+		"uniques": ["65% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
 	}
 ]

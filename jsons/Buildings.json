@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Holodeck",
+		"name": "Deathwatcher",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "The ",
 		"cost": 480,
 		"happiness": 12,
 		"culture": 12,

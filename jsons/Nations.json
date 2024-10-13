@@ -19,16 +19,16 @@
 		"neutralNo": ["We absolutely refuse.","No!","tutut."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good from you nice person."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Nope i hate you but could potentialy fear you?",
+		"hateLetsHearIt": ["Speak!","Spit it out?","Go on."],
+		"hateNo": ["That is not Compatable!","We are way too good for that!","you you....?"],
+		"hateYes": ["That is fine."," Just enough.","Very well..."],
 		
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [6,6,6],
+		"innerColor": [255,50,50],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",

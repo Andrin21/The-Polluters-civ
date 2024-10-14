@@ -22,10 +22,10 @@
 		"hateHello": "Nope i hate you but could potentialy fear you?",
 		"hateLetsHearIt": ["Speak!","Spit it out?","Go on."],
 		"hateNo": ["That is not Compatable!","We are way too good for that!","you you....?"],
-		"hateYes": ["That is fine."," Just enough.","Very well..."],
+		"hateYes": ["That is fine."," actualy no.","On second hands..."],
 		
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"tradeRequest": "Times ticking.",
 
 		"outerColor": [6,6,6],
 		"innerColor": [255,50,50],

@@ -20,7 +20,7 @@
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": -50,
-		"uniques": ["65% of food is carried over after a new citizen is born"],
+		"uniques": ["75% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
 	}
 ]

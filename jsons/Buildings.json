@@ -5,9 +5,10 @@
 		"uniqueTo": "The Polluters ",
 		"cost": 480,
 		"happiness": -200,
-		"culture": 20,
+		"faith": 100,
+		"culture": 25,
 		"science": 500,
-		"maintenance": -10,
+		"maintenance": -20,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
 		"requiredTech": "Horseback Riding"

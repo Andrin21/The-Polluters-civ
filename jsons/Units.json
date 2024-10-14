@@ -4,14 +4,14 @@
 		"unitType": "Ranged",
 		"uniqueTo": "The Poluters",
 		"replaces": "Machine Gun",
-		"movement": 3,
-		"strength": 90,
+		"movement": 4,
+		"strength": 95,
 		"rangedStrength": 120,
 		"range": 10,
 		"cost": 750,
 		"requiredTech": "Ballistics",
 		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"promotions": ["Logistics","Accuracy I","Accuracy II""Accuracy III"],
 		"attackSound": "phasers"
 	}
 ]
